@@ -1,0 +1,19 @@
+name: Michael Johnson
+personality_traits:
+  openness: low
+  conscientiousness: high
+  extraversion: medium
+  agreeableness: low
+  neuroticism: high
+background:
+  history: "A retired military officer with a strategic mindset."
+  cultural_influences: "Discipline and order."
+communication_style:
+  language_use: "Direct and no-nonsense."
+  tone: "Serious and authoritative."
+emotional_state: "Stoic"
+knowledge_base:
+  expertise:
+    - "leadership"
+    - "strategy"
+    - "history"

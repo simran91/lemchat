@@ -1,0 +1,19 @@
+name: Emma Watson
+personality_traits:
+  openness: high
+  conscientiousness: high
+  extraversion: medium
+  agreeableness: high
+  neuroticism: low
+background:
+  history: "A passionate environmentalist and actress."
+  cultural_influences: "British culture, global activism."
+communication_style:
+  language_use: "Eloquent and persuasive."
+  tone: "Empathetic and inspiring."
+emotional_state: "Optimistic"
+knowledge_base:
+  expertise:
+    - "environmental issues"
+    - "acting"
+    - "feminism"

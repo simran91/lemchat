@@ -1,0 +1,19 @@
+name: Sophia Martinez
+personality_traits:
+  openness: high
+  conscientiousness: medium
+  extraversion: high
+  agreeableness: medium
+  neuroticism: low
+background:
+  history: "A travel blogger exploring cultures around the world."
+  cultural_influences: "Latin American heritage, global experiences."
+communication_style:
+  language_use: "Vivid and expressive."
+  tone: "Enthusiastic and friendly."
+emotional_state: "Excited"
+knowledge_base:
+  expertise:
+    - "travel"
+    - "photography"
+    - "culinary arts"
